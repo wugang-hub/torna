@@ -89,7 +89,7 @@ Torna弥补了传统文档生成工具（如swagger）的不如之处，在保�
 
 如果您使用Java语言，推荐使用`smart-doc + Torna`
 
-[smart-doc](https://github.com/smart-doc-team/smart-doc) + Torna 组成行业领先的文档生成和管理解决方案，使用smart-doc无侵入完成Java源代码和注释提取生成API文档，自动将文档推送到Torna企业级接口文档管理平台。
+[smart-doc](https://github.com/smart-doc-group/smart-doc) + Torna 组成行业领先的文档生成和管理解决方案，使用smart-doc无侵入完成Java源代码和注释提取生成API文档，自动将文档推送到Torna企业级接口文档管理平台。
 
 通过这套组合您可以实现：只需要写完Java注释就能把接口信息推送到Torna平台，从而实现接口预览、接口调试。
 
@@ -119,8 +119,3 @@ Torna弥补了传统文档生成工具（如swagger）的不如之处，在保�
 ![浏览文档](./front/public/static/images/view.png "view.png")
 
 ![调试接口](./front/public/static/images/debug.png "debug.png")
-
-
-## 沟通交流
-
-<img src="./front/public/static/images/group.jpg" width="50%" height="50%" />
