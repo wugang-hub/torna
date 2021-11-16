@@ -27,7 +27,7 @@ Torna弥补了传统文档生成工具（如swagger）的不如之处，在保�
   - Java环境，最低要求Java8
   - MySQL，要求5.6.5及以后，5.6.5之前的版本见：[支持低版本MySQL](http://torna.cn/dev/mysql-lower-version.html)
 
-前往 [发行版页面](https://gitee.com/durcframework/torna/releases) ，下载最新版本，解压zip
+前往 [发行版页面](https://github.com/torna-group/torna/releases) ，下载最新版本，解压zip
 
 导入数据库，执行[mysql.sql](./mysql.sql)
 
@@ -78,10 +78,10 @@ Torna弥补了传统文档生成工具（如swagger）的不如之处，在保�
 ```
 
 ### docker-compose部署torna
-[【docker-compose方式部署torna】](https://gitee.com/durcframework/torna/tree/master/torna-docker-compose)
+[【docker-compose方式部署torna】](https://github.com/wugang-hub/torna/tree/master/torna-docker-compose)
 
 ### kubernetes部署torna
-[【kubernetes部署torna】](https://gitee.com/durcframework/torna/tree/master/torna-on-kubernetes)
+[【kubernetes部署torna】](https://github.com/wugang-hub/torna/tree/master/torna-on-kubernetes)
 
 ## 推荐组合
 
@@ -103,7 +103,7 @@ Torna弥补了传统文档生成工具（如swagger）的不如之处，在保�
 
 ## 其它资源
 
-- [Torna对应的示例工程](https://gitee.com/durcframework/torna-example) ，演示swagger插件的用法
+- [Torna对应的示例工程](https://github.com/wugang-hub/torna-example) ，演示swagger插件的用法
 
 ## 更新日志
 
