@@ -45,7 +45,7 @@ Override `torna.jar` file and `dist` folder,and startup.
 
 Download image
 
-`docker pull wugang2021/torna:latest`
+`docker pull 1055503618/torna:latest`
 
 Import database,run [mysql.sql](./mysql.sql)
 

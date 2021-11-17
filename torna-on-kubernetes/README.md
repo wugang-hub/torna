@@ -63,7 +63,7 @@ spec:
     spec:
       containers:
         - name: torna
-          image: wugang2021/torna:latest
+          image: 1055503618/torna:latest
           imagePullPolicy: Always
           env:
               - name:  JAVA_OPTS

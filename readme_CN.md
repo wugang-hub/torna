@@ -45,7 +45,7 @@ Torna弥补了传统文档生成工具（如swagger）的不如之处，在保�
 
 下载公共镜像
 
-`docker pull wugang2021/torna:latest`
+`docker pull 1055503618/torna:latest`
 
 导入数据库，执行[mysql.sql](./mysql.sql)
 

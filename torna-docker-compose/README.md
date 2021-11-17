@@ -202,7 +202,7 @@ services:
       - torna-net
     restart: always
   torna:
-    image: wugang2021/torna:latest
+    image: 1055503618/torna:latest
     container_name: torna
     ports:
       - 7700:7700

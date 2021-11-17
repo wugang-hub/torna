@@ -1,14 +1,11 @@
 package cn.torna;
 
-import cn.torna.common.util.PasswordUtil;
-import cn.torna.dao.entity.UserInfo;
 import cn.torna.service.UserInfoService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.util.DigestUtils;
 
 import java.nio.charset.StandardCharsets;
-import java.util.List;
 
 /**
  * @author wugang

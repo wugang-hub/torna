@@ -1,7 +1,7 @@
 package cn.torna;
 
+import junit.framework.Assert;
 import junit.framework.TestCase;
-import org.junit.Assert;
 import org.springframework.util.StringUtils;
 
 /**
