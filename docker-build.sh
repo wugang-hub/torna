@@ -16,7 +16,7 @@ cd ..
 mvn clean package
 
 # 创建镜像
-docker build -t tanghc2020/torna .
+docker build -t wugang2021/torna .
 
 # 将application.properties文件放在宿主机的/etc/torna/config下，然后执行下面这句
 # docker run --name torna -p 7700:7700 -v /opt/torna/config:/torna/config -d <IMAGE ID>

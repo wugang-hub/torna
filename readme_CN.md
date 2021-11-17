@@ -45,7 +45,7 @@ Torna弥补了传统文档生成工具（如swagger）的不如之处，在保�
 
 下载公共镜像
 
-`docker pull tanghc2020/torna:latest`
+`docker pull wugang2021/torna:latest`
 
 导入数据库，执行[mysql.sql](./mysql.sql)
 
@@ -104,6 +104,13 @@ Torna弥补了传统文档生成工具（如swagger）的不如之处，在保�
 ## 其它资源
 
 - [Torna对应的示例工程](https://github.com/wugang-hub/torna-example) ，演示swagger插件的用法
+<<<<<<< HEAD
+
+## 更新日志
+
+[changelog](./changelog.md)
+=======
+>>>>>>> 912ceff8dabf42b72a60856f98ab7c9e93352a47
 
 ## 参与贡献
 
