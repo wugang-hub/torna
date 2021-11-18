@@ -6,7 +6,7 @@ import cn.torna.dao.mapper.ComposeAdditionalPageMapper;
 import org.springframework.stereotype.Service;
 
 /**
- * @author thc
+ * @author wugang
  * @version 1.0.0
  * @description
  * @date 2021/7/18/018

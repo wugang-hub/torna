@@ -3,7 +3,7 @@ package cn.torna.service.dto;
 import lombok.Data;
 
 /**
- * @author thc
+ * @author wugang
  */
 @Data
 public class DocMeta {

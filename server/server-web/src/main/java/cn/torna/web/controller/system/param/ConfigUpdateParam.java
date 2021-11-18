@@ -3,7 +3,7 @@ package cn.torna.web.controller.system.param;
 import lombok.Data;
 
 /**
- * @author thc
+ * @author wugang
  */
 @Data
 public class ConfigUpdateParam {

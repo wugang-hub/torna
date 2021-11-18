@@ -12,7 +12,7 @@ import java.nio.charset.StandardCharsets;
 
 /**
  * 文档推送辅助类
- * @author thc
+ * @author wugang
  */
 public class SwaggerPlugin {
 

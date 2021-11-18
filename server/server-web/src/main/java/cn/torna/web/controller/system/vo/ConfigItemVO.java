@@ -3,7 +3,7 @@ package cn.torna.web.controller.system.vo;
 import lombok.Data;
 
 /**
- * @author thc
+ * @author wugang
  */
 @Data
 public class ConfigItemVO {
