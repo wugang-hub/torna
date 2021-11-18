@@ -40,7 +40,6 @@
 
     <dependencyManagement>
         <dependencies>
-            <!-- https://gitee.com/durcframework/fastmybatis -->
             <dependency>
                 <groupId>net.oschina.durcframework</groupId>
                 <artifactId>fastmybatis-spring-boot-starter</artifactId>

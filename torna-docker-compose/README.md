@@ -251,11 +251,11 @@ cd /data/torna-docker-compose
 ```
 
 ```shell
-wget https://gitee.com/durcframework/torna/raw/master/server/boot/src/main/resources/application.properties
+wget https://github.com/dwugang-hub//torna/raw/master/server/boot/src/main/resources/application.properties
 ```
 
 ```shell
-wget https://gitee.com/durcframework/torna/raw/master/torna-docker-compose/docker-compose.yml
+wget https://github.com/dwugang-hub/torna/raw/master/torna-docker-compose/docker-compose.yml
 ```
 
 * 下载完后修改application.properties配置即可.

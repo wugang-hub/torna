@@ -95,5 +95,5 @@ spec:
 
 # 官方模板下载
 ```
-wget https://gitee.com/durcframework/torna/raw/master/torna-on-kubernetes/torna-deployment.yaml
+wget https://github.com/wugang-hub/torna/raw/master/torna-on-kubernetes/torna-deployment.yaml
 ```
